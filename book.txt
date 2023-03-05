@@ -1,0 +1,3 @@
+B12346  |Clean Code          |32     |23        |Available |P23231    |
+B12345  |Dac Nhan Tam        |125    |12        |Available |P23456    |
+B12347  |Dark Nhan Tam       |123    |321       |Available |P23456    |
